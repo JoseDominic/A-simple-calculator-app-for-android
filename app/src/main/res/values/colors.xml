@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5dd961</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e6fbfb</color>
+    <color name="Operatorbg">#f2f4f3</color>
+    <color name="equalbutton">#4AAE4E</color>
+    <color name="operatorcolor">#0899d2</color>
+    <color name="numberbackground">#fafafa</color>
+    <color name="resultgrey">#ADADAD</color>
+    <color name="displayoperatorcolor">#1083A0</color>
+
+</resources>
